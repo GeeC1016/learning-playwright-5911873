@@ -1,0 +1,35 @@
+{
+  "name": "learning-playwright-5911873",
+  "version": "1.0.0",
+  "description": "This is the repository for the LinkedIn Learning course `learning-playwright`. The full course is available from [LinkedIn Learning][lil-course-url].",
+  "main": "index.js",
+  "dependencies": {
+    "allure-js-commons": "^3.3.3",
+    "allure-playwright": "^3.3.3",
+    "charenc": "^0.0.2",
+    "crypt": "^0.0.2",
+    "dotenv": "^16.4.5",
+    "fsevents": "^2.3.2",
+    "is-buffer": "^1.1.6",
+    "md5": "^2.3.0",
+    "playwright": "^1.47.2",
+    "playwright-core": "^1.47.2",
+    "undici-types": "^6.19.8"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinkedInLearning/learning-playwright-5911873.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinkedInLearning/learning-playwright-5911873/issues"
+  },
+  "homepage": "https://github.com/LinkedInLearning/learning-playwright-5911873#readme"
+}
